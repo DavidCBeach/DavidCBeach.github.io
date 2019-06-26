@@ -3,7 +3,7 @@ layout: default
 ---
 
 <br/><br/>
-My name is David Beach and I am an aspiring Computer Science graduate looking for a Software Engineering position. I have worked on many projects throughout my academic carrier, in the work place, and on my own time. My specialties include Web Development, Android Development, and Internal Tools (as well as some Machine Learning/Data Science). I have experience with a multitude of technologies and programming languages and I am a fast learner. I have spent a lot of time working in a team setting, many times acting in a leadership role. In College I was a part of a Computer Science learning cohort called CS++. Through CS++ I was able to take advantage of many teamwork and leadership skill building activities such as group projects and self-organized study sessions.  
+My name is David Beach and I am an aspiring Computer Science graduate looking for a Software Engineering position. I have worked on many projects throughout my academic carrier as well as in the work place and on my own time. My specialties include Web Development, Android Development, and Internal Tools (as well as some Machine Learning/Data Science). I have experience with a multitude of technologies and programming languages and I am a fast learner. I have spent a lot of time working in a team setting, many times acting in a leadership role. In College I was a part of a Computer Science learning cohort called CS++. Through CS++ I was able to take advantage of many teamwork and leadership skill building activities such as group projects and self-organized study sessions.  
 * * *
 ## Education
 
@@ -24,36 +24,52 @@ My name is David Beach and I am an aspiring Computer Science graduate looking fo
 
 ### YourCoast Android App
 
-![Octocat](assets/img/screencap.gif)![Octocat](assets/img/screencap2.gif)![Octocat](assets/img/screencap3.gif)![Octocat](assets/img/screencap4.gif)
 
-YourCoast Android is an Android application developed for the California Coastal Commission with the mission to increase citizen engagement and awareness of California coastal locations. I lead a team of four in creating a fully featured android app developed using Java and XML. I created a map feature that implements the Google Maps API to display over 1,500 coastal locations with a dynamic list of locations shown on map ordered by distance to user. I built a location details page that displays the location’s address, phone number, amenities, and images.
+![screencap](assets/img/screencap.gif)![screencap](assets/img/screencap2.gif)![screencap](assets/img/screencap3.gif)![screencap](assets/img/screencap4.gif)
+
+YourCoast Android is an Android application developed for the California Coastal Commission with the mission to increase citizen engagement and awareness of California coastal locations. I led a team of four in creating a fully featured android app developed using Java and XML. I created a map feature that implements the Google Maps API to display over 1,500 coastal locations with a dynamic list of locations shown on map ordered by distance to user. I built a location details page that displays the location’s address, phone number, amenities, and images.
+
+**Technologies Used:** Java, XML, Android Studio, Android, Google Maps API
 
 [Learn More](https://github.com/DavidCBeach/YourCoastAndroid).
 
 ### Art Version Control System One
 
-![Octocat](assets/img/Screenshot1.png)
+![screencap](assets/img/Screenshot1.png)
 
 Art Version Control System One is website that acts as a version control system for Photoshop and image files. I developed a Node.js server implementing SQLite database for file management using JavaScript, HTML, CSS, and UIkit for the front-end interface. The website allows users to back up their project file and easily view, download, and delete any previous version of each project.
+
+**Technologies Used:** JavaScript, Node.js, SQLite, JQuery, HTML, CSS, UIKit
 
 [Learn More](https://github.com/DavidCBeach/Art-Version-Control-System-One).
 * * *
 ## Work Experience
 
 ### **Software Engineering Intern** - _LanguageLine Solutions_
+![logo](assets/img/1.jpg)  
 June, 2018 - August, 2018
 
-I worked in a team to develop a solution that allowed salespeople to easily access relevant data replacing previous system that forced salespeople to login to multiple systems. OData Client I developed a functional Odata Client allowing Salesforce to access current data from external data sources saving employees hours per week by bypassing previous system. I developed administration controls for Odata Client allowing company admins to maintain and add functionality to the client.
+I worked in a team to develop a solution that allowed salespeople to easily access relevant data replacing previous system that forced salespeople to login to multiple systems. The old system consisted of an ElasticSearch database and a Salesforce database. A sales person would have to log on to both systems and cross check account information by manually matching account IDs. The solution I developed was an Odata Client that allowed the ElasticSearch data to seamlessly appear in the Salesforce client. This solution saves employees hours a week by streamlining their work flows. I also developed an administration control system for the Odata Client allowing company admins to maintain and add functionality to the client.
 
+**Technologies Used:** Python, Flask, Salesforce
+<br/><br/>
 ### **Software Engineering Intern** - _LanguageLine Solutions_
+![logo](assets/img/1.jpg)  
 June, 2017 - August, 2017
 
-I worked in a two-person team to complete multiple projects. The first project I worked on was a Machine Learning Support Request Classification system. I developed a training website and built a logistic regression model to automatically classify support tickets based on free-text contents for routing purposes. The model was able to surpass accuracy of user-selected categories by a margin of 5% (~70% to ~75%). I built and optimized the machine learning model using Python library Scikit-Learn. The next project I worked on was a Machine Learning Video Interpreter Quality Evaluation system.  I built a neural network using Keras, along with its accompanying dataset categorization website, that was able to detect quality issues, such as improper lighting, incorrect positioning, and improper clothing, using employees' video feeds. The model was able to properly identify over 85% of all guideline violations using real-world data.
+I worked in a two-person team to complete multiple projects.  
+
+The first project I worked on was a machine learning support request classification system. The problem was that the old support request classification system was overly complex and relied on employee accuracy to be correct sent to the appropriate team. I developed a training website and built a logistic regression model to automatically classify support tickets based on free-text contents. I developed this model using Scikit-Learn. The model was able to surpass accuracy of user-selected categories by a margin of 5% (~70% to ~75%). This result is based on a limited training group size and will only improve with time.  
+
+The next project I worked on was a machine learning video interpreter quality evaluation system. A big part of  LanguageLine Solution's business is its video interpretation service and it is very important that interpreters maintain a certain level visual quality. The old system in place to ensure interpreter quality control was to have employees manually look through screen captures of interpreters and signify any quality deviations. My solution was to build a neural network using Keras along with an accompanying dataset categorization website. This modal that was able to detect quality issues, such as improper lighting, incorrect positioning, and improper clothing, using employees' video feeds. The model was able to properly identify over 85% of all guideline violations using real-world data.  
+
+**Technologies Used:** Python, Scikit-Learn, Keras, Flask, HTML, CSS, JavaScript, JQuery
 
 * * *
 ## Technical Skills
 
 <h3 style="color:#16991c">Intermediate</h3>
+![logo](assets/img/1024px-Python-logo-notext.svg.png)  ![logo](assets/img/1200px-Unofficial_JavaScript_logo_2.svg.png)![logo](assets/img/android-wallpaper5_2560x1600_1.png)![logo](assets/img/Git-Logo-2Color.png)![logo](assets/img/jW4dnFtA_400x400.jpg)
 - Python
 - Java
 - SQLite/SQL
@@ -67,6 +83,7 @@ I worked in a two-person team to complete multiple projects. The first project I
 - Bash
 - XML
 <h3 style="color:#ffb400">Beginner</h3>
+![logo](assets/img/1200px-ISO_C++_Logo.svg.png)  ![logo](assets/img/rstudio-og.png)  ![logo](assets/img/1280px-PHP-logo.svg.png)  ![logo](assets/img/Sdl-logo.png)
 - R
   - RStudio
 - PHP
@@ -78,6 +95,7 @@ I worked in a two-person team to complete multiple projects. The first project I
 - OData
 - Bitbucket
 <h3 style="color:#ff2502">Limited Experience</h3>
+![logo](assets/img/1200px-Salesforce_logo.svg.png)  ![logo](assets/img/index.png)  ![logo](assets/img/keras-logo-2018-large-1200.png)
 - Salesforce
 - ElasticSearch
 - Keras
