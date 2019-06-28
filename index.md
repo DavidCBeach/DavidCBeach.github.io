@@ -2,8 +2,9 @@
 layout: default
 ---
 
-<br/><br/>
-My name is David Beach and I am an aspiring Computer Science graduate looking for a Software Engineering position. I have worked on many projects throughout my academic carrier as well as in the work place and on my own time. My specialties include Web Development, Android Development, and Internal Tools (as well as some Machine Learning/Data Science). I have experience with a multitude of technologies and programming languages and I am a fast learner. I have spent a lot of time working in a team setting, many times acting in a leadership role. In College I was a part of a Computer Science learning cohort called CS++. Through CS++ I was able to take advantage of many teamwork and leadership skill building activities such as group projects and self-organized study sessions.  
+<br/>
+## About
+My name is David Beach and I am an aspiring Computer Science graduate looking for a Software Engineering position. I have worked on many projects throughout my academic career as well as in the workplace and in my own time. My specialties include Web Development, Android Development, and Internal Tools (as well as some Machine Learning/Data Science). I have experience with a multitude of technologies and programming languages and I am a fast learner. I work well in a team setting and have been in a leadership role many times. Throughout college, I was a member of a Computer Science cohort called CS++. Through CS++ I was able to take advantage of many teamwork and leadership skill-building activities such as group projects and self-organized study sessions.
 * * *
 ## Education
 
@@ -12,7 +13,7 @@ My name is David Beach and I am an aspiring Computer Science graduate looking fo
 <dt>Concentration:</dt>
 <dd>Software Engineering</dd>
 <dt>GPA:</dt>
-<dd>3.830</dd>
+<dd>3.83</dd>
 <dt>Related Course Work:</dt>
 <dd>Software Engineering, Advanced Machine Learning, Software Design, Internet Programming, Algorithms, Computer Architecture, Operating Systems, Intro to Database Systems   </dd>
 <dt>CS++ Cohort Member:</dt>
