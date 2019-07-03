@@ -15,7 +15,7 @@ My name is David Beach and I am an aspiring Computer Science graduate looking fo
 <dt>GPA:</dt>
 <dd>3.83</dd>
 <dt>Related Course Work:</dt>
-<dd>Software Engineering, Advanced Machine Learning, Software Design, Internet Programming, Algorithms, Computer Architecture, Operating Systems, Intro to Database Systems   </dd>
+<dd>Software Engineering, Advanced Machine Learning, Software Design, Internet Programming, Algorithms, Computer Architecture, Operating Systems, Intro to Database Systems, Discrete Mathematics   </dd>
 <dt>CS++ Cohort Member:</dt>
 <dd>Member of Computer Science learning community that emphasizes on building teamwork skills</dd>
 </dl>
@@ -73,7 +73,7 @@ Art Version Control System One is a website that allows users to back up version
 
 ![screencap](assets/img/320984.png)
 
-The Drone Store is a website created for CST438 Software Engineering. The website was built by me and two of my peers using Angular and MongoDB. The user is able to sign in to the store, add items to their cart, see details on each item, view/edit cart, and checkout.
+The Drone Store is a website created for my Software Engineering course (CST438). The website was built by me and two of my peers using Angular and MongoDB. The user is able to sign in to the store, add items to their cart, see details on each item, view/edit cart, and checkout.
 
 **Technologies Used:** Angular, MongoDB, TypeScript, HTML, CSS
 
@@ -97,7 +97,7 @@ Otter Petitions is a website that was created with the goal to increase campus e
 
 ![screencap](assets/img/Screenshot186.png)![screencap](assets/img/Screenshot103498.png)![screencap](assets/img/Screenshot12.png)![screencap](assets/img/203948.png)
 
-The Library Book Management App is a Android application I made for my Software Design course. It was one of my first Android application. The app was designed to function as a book management system for a library. A user could perform tasks such as schedule a book checkout/check-in while an admin had functionality to manage books. The app used an SQLite database.
+The Library Book Management App is a Android application I made for my Software Design course  (CST338). It was one of my first Android applications. The app was designed to function as a book management system for a library. A user can perform tasks such as schedule a book checkout/check-in while an admin is able to add or remove books. The app used an SQLite database to manage all account and book information.
 
 **Technologies Used:** Java, XML, Android Studio, Android, SQLite
 
@@ -106,7 +106,7 @@ The Library Book Management App is a Android application I made for my Software 
 
 ![screencap](assets/img/1.png)
 
-The Steam Account Score website was website a group of three of my peers and I made for the Major League Hacking hackathon at CSUMB. Using the Steam API and Flask we developed a website that allowed the user to look up a specific Steam account name and have information on that account be displayed along with its Steam Account Score. The Account Score was a number that compiled account specific statistics such as number of hours in games and the number of game achievements. The project received first place award.   
+The Steam Account Score Website was a website a group of three of my peers and I made for the Major League Hacking hackathon 2016 at CSUMB. Using the Steam API and Flask we developed a website that allowed the user to look up a specific Steam account and have information on that account be displayed along with its Steam Account Score. The Account Score was a number that compiled account specific statistics such as number of hours in games and the number of game achievements. The project received the first place award.   
 
 **Technologies Used:** Flask, Steam API, JSON, HTML, bootstrap
 
@@ -116,8 +116,8 @@ The Steam Account Score website was website a group of three of my peers and I m
 
 ![screencap](assets/img/Screenshot18.png)  ![screencap](assets/img/9230874.png)  ![screencap](assets/img/32098.png)
 
-In my Internet Programming course (CST336) part of the curriculum was to create a series of simple websites that showcase one specific web development feature. The technology stack used in this course include PHP and SQL. As this was my first development course none of these site are up to my current visual and functional standards. Each website is labeled by its homework assignment number:
-- homework 1: a simple website about operating systems that showcases switch between pages
+In my Internet Programming course (CST336) part of the curriculum was to create a series of simple websites that each showcase one specific web development feature. The technology stack used in this course included PHP and SQL. As this was my first development course none of these sites are up to my current visual and functional standards, but they are good examples of my experience working with PHP and MySQL. Each website is labeled by its homework assignment number:
+- homework 1: a simple website about operating systems that showcases switching between pages
 - homework 2: a website that generates indie band names and album art to show updating a page with PHP
 - homework 3: a small animal encyclopedia showcasing HTML forms and GET with PHP
 - homework 4: a rock paper scissors game
