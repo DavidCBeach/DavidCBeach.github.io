@@ -116,7 +116,7 @@ The Steam Account Score Website was a website a group of three of my peers and I
 
 ![screencap](assets/img/Screenshot18.png)  ![screencap](assets/img/9230874.png)  ![screencap](assets/img/32098.png)
 
-In my Internet Programming course (CST336) part of the curriculum was to create a series of simple websites that each showcase one specific web development feature. The technology stack used in this course included PHP and SQL. As this was my first development course none of these sites are up to my current visual and functional standards, but they are good examples of my experience working with PHP and MySQL. Each website is labeled by its homework assignment number:
+In my Internet Programming course (CST336) part of the curriculum was to create a series of simple websites that each showcase one specific web development feature. The technology stack used in this course included PHP and SQL. As this was my first web development course none of these sites are up to my current visual and functional standards, but they are good examples of my experience working with PHP and MySQL. Each website is labeled by its homework assignment number:
 - homework 1: a simple website about operating systems that showcases switching between pages
 - homework 2: a website that generates indie band names and album art to show updating a page with PHP
 - homework 3: a small animal encyclopedia showcasing HTML forms and GET with PHP
