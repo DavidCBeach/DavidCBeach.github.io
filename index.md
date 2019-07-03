@@ -55,17 +55,79 @@ YourCoast Android is an Android application developed for the California Coastal
 
 **Technologies Used:** Java, XML, Android Studio, Android, Google Maps API
 
-[Learn More](https://github.com/DavidCBeach/YourCoastAndroid).
-
+[Learn More](https://github.com/DavidCBeach/YourCoastAndroid)
+* * *
 ### Art Version Control System One
 
-![screencap](assets/img/Screenshot1.png)
+![screencap](assets/img/09823.png)
 
-Art Version Control System One is a website that allows users to back up versions of their Photoshop files and easily view, download, and delete any previous versions of each file. I developed a Node.js server implementing an SQLite database for file and account management. I also designed and implemented a front-end interface using JavaScript, HTML, CSS, and UIkit. 
+Art Version Control System One is a website that allows users to back up versions of their Photoshop files and easily view, download, and delete any previous versions of each file. I developed a Node.js server implementing an SQLite database for file and account management. I also designed and implemented a front-end interface using JavaScript, HTML, CSS, and UIkit.
 
-**Technologies Used:** JavaScript, Node.js, SQLite, JQuery, HTML, CSS, UIKit
+**Technologies Used:** JavaScript, Node.js, SQLite, JQuery, JSON, HTML, CSS, UIKit
 
-[Learn More](https://github.com/DavidCBeach/Art-Version-Control-System-One).
+[Learn More](https://github.com/DavidCBeach/Art-Version-Control-System-One)
+
+[The Website](http://www.artvcs.com/)
+* * *
+### Drone Store Angular Website
+
+![screencap](assets/img/320984.png)
+
+The Drone Store is a website created for CST438 Software Engineering. The website was built by me and two of my peers using Angular and MongoDB. The user is able to sign in to the store, add items to their cart, see details on each item, view/edit cart, and checkout.
+
+**Technologies Used:** Angular, MongoDB, TypeScript, HTML, CSS
+
+[The Code](https://github.com/CSUMB-SCD/Team6Project/)
+
+[The Website](https://team-6-project.herokuapp.com/) [Use username: 'admin' and password: 'password']
+* * *
+### Otter Petitions
+
+![screencap](assets/img/230894.png)
+
+Otter Petitions is a website that was created with the goal to increase campus engagement in university politics by allowing students to create and sign petitions. The website was developed using Angular. This Angular server is connected to a separate Flask server to interface with a MongoDB database.
+
+**Technologies Used:** Angular, MongoDB, Flask, Python, TypeScript, HTML, CSS
+
+[The Code](https://github.com/DavidCBeach/PoliticalParticipationCSUMB)
+
+[The Website](http://otterpetitions.herokuapp.com/)
+* * *
+### Library Book Management Android App
+
+![screencap](assets/img/Screenshot186.png)![screencap](assets/img/Screenshot103498.png)![screencap](assets/img/Screenshot12.png)![screencap](assets/img/203948.png)
+
+The Library Book Management App is a Android application I made for my Software Design course. It was one of my first Android application. The app was designed to function as a book management system for a library. A user could perform tasks such as schedule a book checkout/check-in while an admin had functionality to manage books. The app used an SQLite database.
+
+**Technologies Used:** Java, XML, Android Studio, Android, SQLite
+
+* * *
+### MLH2016 Steam Account Score Website
+
+![screencap](assets/img/1.png)
+
+The Steam Account Score website was website a group of three of my peers and I made for the Major League Hacking hackathon at CSUMB. Using the Steam API and Flask we developed a website that allowed the user to look up a specific Steam account name and have information on that account be displayed along with its Steam Account Score. The Account Score was a number that compiled account specific statistics such as number of hours in games and the number of game achievements. The project received first place award.   
+
+**Technologies Used:** Flask, Steam API, JSON, HTML, bootstrap
+
+[The Code](https://github.com/Oishikatta/mlh2016)
+* * *
+### Simple PHP websites
+
+![screencap](assets/img/Screenshot18.png)  ![screencap](assets/img/9230874.png)  ![screencap](assets/img/32098.png)
+
+In my Internet Programming course (CST336) part of the curriculum was to create a series of simple websites that showcase one specific web development feature. The technology stack used in this course include PHP and SQL. As this was my first development course none of these site are up to my current visual and functional standards. Each website is labeled by its homework assignment number:
+- homework 1: a simple website about operating systems that showcases switch between pages
+- homework 2: a website that generates indie band names and album art to show updating a page with PHP
+- homework 3: a small animal encyclopedia showcasing HTML forms and GET with PHP
+- homework 4: a rock paper scissors game
+
+**Technologies Used:** PHP, MySQL, HTML, CSS
+
+[The Code](https://github.com/DavidCBeach/dbeach)
+
+[The Website](http://dbeach-cst336.herokuapp.com/)
+
 * * *
 
 ## Technical Skills
