@@ -68,6 +68,7 @@ Art Version Control System One is a website that allows users to back up version
 [Learn More](https://github.com/DavidCBeach/Art-Version-Control-System-One)
 
 [The Website](https://www.artvcs.com/)
+<span style="color:#16991c">Login:</span> Use username: 'exampleuser' and password: 'password'  
 * * *
 ### Drone Store Angular Website
 
