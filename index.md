@@ -28,7 +28,7 @@ June, 2018 - August, 2018
 
 I worked in a team to develop a solution that allowed salespeople to easily access relevant data replacing the previous system that forced salespeople to login to multiple systems. The old system consisted of an ElasticSearch database and a Salesforce database. A sales person would have to log on to both systems and cross check account information by manually matching account IDs. The solution I developed was an Odata Client that allowed the ElasticSearch data to seamlessly appear in the Salesforce client. This solution saves employees hours a week by streamlining their work flows. I also developed an administration control system for the Odata Client allowing company admins to maintain and add functionality to the client.
 
-**Technologies Used:** Python, Flask, Salesforce
+**Technologies Used:** Python, Flask, Salesforce, ElasticSearch
 <br/><br/>
 ### **Software Engineering Intern** - _LanguageLine Solutions_
 ![logo](assets/img/1.jpg)  
@@ -40,7 +40,7 @@ The first project I worked on was a machine learning support request classificat
 
 The next project I worked on was a machine learning video interpreter quality evaluation system. A big part of  LanguageLine Solution's business is its video interpretation service and it is very important that interpreters maintain a certain level visual quality. The old system in place to ensure interpreter quality control was to have employees manually look through screen captures of interpreters and signify any quality deviations. My solution was to build a neural network using Keras along with an accompanying dataset categorization website. This modal was able to detect quality issues, such as improper lighting, incorrect positioning, and improper clothing, using screenshots of employees' video feeds. The model was able to properly identify over 85% of all guideline violations using real-world data.  
 
-**Technologies Used:** Python, Scikit-Learn, Keras, Flask, HTML, CSS, JavaScript, JQuery
+**Technologies Used:** Python, Scikit-Learn, Keras, Flask, HTML, CSS, JavaScript, JQuery, ElasticSearch
 
 * * *
 ## Projects
@@ -63,11 +63,11 @@ YourCoast Android is an Android application developed for the California Coastal
 
 Art Version Control System One is a website that allows users to back up versions of their Photoshop files and easily view, download, and delete any previous versions of each file. I developed a Node.js server implementing an SQLite database for file and account management. I also designed and implemented a front-end interface using JavaScript, HTML, CSS, and UIkit.
 
-**Technologies Used:** JavaScript, Node.js, SQLite, JQuery, JSON, HTML, CSS, UIKit
+**Technologies Used:** JavaScript, Node.js, SQLite, JQuery, JSON, HTML, CSS, UIKit, Nginx, pm2
 
 [Learn More](https://github.com/DavidCBeach/Art-Version-Control-System-One)
 
-[The Website](http://www.artvcs.com/)
+[The Website](https://www.artvcs.com/)
 * * *
 ### Drone Store Angular Website
 
@@ -75,32 +75,13 @@ Art Version Control System One is a website that allows users to back up version
 
 The Drone Store is a website created for my Software Engineering course (CST438). The website was built by me and two of my peers using Angular and MongoDB. The user is able to sign in to the store, add items to their cart, see details on each item, view/edit cart, and checkout.
 
-**Technologies Used:** Angular, MongoDB, TypeScript, HTML, CSS
+**Technologies Used:** Angular, MongoDB, TypeScript, HTML, CSS, Heroku
 
 [The Code](https://github.com/CSUMB-SCD/Team6Project/)
 
-[The Website](https://team-6-project.herokuapp.com/) [Use username: 'admin' and password: 'password']
-* * *
-### Otter Petitions
-
-![screencap](assets/img/230894.png)
-
-Otter Petitions is a website that was created with the goal to increase campus engagement in university politics by allowing students to create and sign petitions. The website was developed using Angular. This Angular server is connected to a separate Flask server to interface with a MongoDB database.
-
-**Technologies Used:** Angular, MongoDB, Flask, Python, TypeScript, HTML, CSS
-
-[The Code](https://github.com/DavidCBeach/PoliticalParticipationCSUMB)
-
-[The Website](http://otterpetitions.herokuapp.com/)
-* * *
-### Library Book Management Android App
-
-![screencap](assets/img/Screenshot186.png)![screencap](assets/img/Screenshot103498.png)![screencap](assets/img/Screenshot12.png)![screencap](assets/img/203948.png)
-
-The Library Book Management App is a Android application I made for my Software Design course  (CST338). It was one of my first Android applications. The app was designed to function as a book management system for a library. A user can perform tasks such as schedule a book checkout/check-in while an admin is able to add or remove books. The app used an SQLite database to manage all account and book information.
-
-**Technologies Used:** Java, XML, Android Studio, Android, SQLite
-
+[The Website](https://team-6-project.herokuapp.com/)  
+<span style="color:#16991c">Login:</span> Use username: 'admin' and password: 'password'   
+<span style="color:red">Important:</span> Give the website a few seconds to wake up before interacting with it. Websites hosted on Heroku go into a sleep state when inactive for a period of time.
 * * *
 ### MLH2016 Steam Account Score Website
 
@@ -112,6 +93,30 @@ The Steam Account Score Website was a website a group of three of my peers and I
 
 [The Code](https://github.com/Oishikatta/mlh2016)
 * * *
+### The Otter Petitions
+
+![screencap](assets/img/230894.png)
+
+The Otter Petitions is a website that was created with the goal to increase campus engagement in university politics by allowing students to create and sign petitions. The website was developed using Angular. This Angular server is connected to a separate Flask server to interface with a MongoDB database.
+
+**Technologies Used:** Angular, MongoDB, Flask, Python, TypeScript, HTML, CSS, UIkit, Heroku
+
+[The Code](https://github.com/DavidCBeach/PoliticalParticipationCSUMB)
+
+[The Website](http://otterpetitions.herokuapp.com/)  
+<span style="color:red">Important:</span> Give the website a few seconds to wake up before interacting with it. Websites hosted on Heroku go into a sleep state when inactive for a period of time.
+
+* * *
+### Library Book Management Android App
+
+![screencap](assets/img/Screenshot186.png)![screencap](assets/img/Screenshot103498.png)![screencap](assets/img/Screenshot12.png)![screencap](assets/img/203948.png)
+
+The Library Book Management App is a Android application I made for my Software Design course  (CST338). It was one of my first Android applications. The app was designed to function as a book management system for a library. A user can perform tasks such as schedule a book checkout/check-in while an admin is able to add or remove books. The app used an SQLite database to manage all account and book information.
+
+**Technologies Used:** Java, XML, Android Studio, Android, SQLite
+
+* * *
+
 ### Simple PHP websites
 
 ![screencap](assets/img/Screenshot18.png)  ![screencap](assets/img/9230874.png)  ![screencap](assets/img/32098.png)
@@ -122,11 +127,12 @@ In my Internet Programming course (CST336) part of the curriculum was to create 
 - homework 3: a small animal encyclopedia showcasing HTML forms and GET with PHP
 - homework 4: a rock paper scissors game
 
-**Technologies Used:** PHP, MySQL, HTML, CSS
+**Technologies Used:** PHP, MySQL, HTML, CSS, Heroku, phpMyAdmin
 
 [The Code](https://github.com/DavidCBeach/dbeach)
 
-[The Website](http://dbeach-cst336.herokuapp.com/)
+[The Website](http://dbeach-cst336.herokuapp.com/)  
+<span style="color:red">Important:</span> Give the website a few seconds to wake up before interacting with it. Websites hosted on Heroku go into a sleep state when inactive for a period of time.
 
 * * *
 
