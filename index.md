@@ -43,8 +43,7 @@ The next project I worked on was a machine learning video interpreter quality ev
 **Technologies Used:** Python, Scikit-Learn, Keras, Flask, HTML, CSS, JavaScript, JQuery, ElasticSearch
 
 * * *
-## Projects
-
+## Android Projects
 
 ### YourCoast Android App
 
@@ -57,6 +56,22 @@ YourCoast Android is an Android application developed for the California Coastal
 
 [Learn More](https://github.com/DavidCBeach/YourCoastAndroid)
 * * *
+### TaskDoDay Android App
+
+
+![screencap](assets/img/device0.png)![screencap](assets/img/device7.png)![screencap](assets/img/device17.png)![screencap](assets/img/device46.png)
+
+TaskDoDay is a simple and intuitive daily task management and productivity app. I designed the app by creating hand written mockups that follow android visual guidelines. I development the app using Android Studio implementing an SQL database to store todo lists and a notification system for reminders. I released TaskDoDay on the Google Play Apps store through Google Play Console
+
+**Technologies Used:** Java, XML, Android Studio, Android, SQL
+
+[Learn More](https://github.com/DavidCBeach/TaskDoDay)
+
+[Google Play](https://play.google.com/store/apps/details?id=com.taskdoday.taskdoday)
+* * *
+
+## Web Development Projects  
+
 ### Art Version Control System One
 
 ![screencap](assets/img/09823.png)
@@ -108,34 +123,7 @@ The Otter Petitions is a website that was created with the goal to increase camp
 <span style="color:red">Important:</span> Give the website a few seconds to wake up before interacting with it. Websites hosted on Heroku go into a sleep state when inactive for a period of time.
 
 * * *
-### Library Book Management Android App
 
-![screencap](assets/img/Screenshot186.png)![screencap](assets/img/Screenshot103498.png)![screencap](assets/img/Screenshot12.png)![screencap](assets/img/203948.png)
-
-The Library Book Management App is a Android application I made for my Software Design course  (CST338). It was one of my first Android applications. The app was designed to function as a book management system for a library. A user can perform tasks such as schedule a book checkout/check-in while an admin is able to add or remove books. The app used an SQLite database to manage all account and book information.
-
-**Technologies Used:** Java, XML, Android Studio, Android, SQLite
-
-* * *
-
-### Simple PHP websites
-
-![screencap](assets/img/Screenshot18.png)  ![screencap](assets/img/9230874.png)  ![screencap](assets/img/32098.png)
-
-In my Internet Programming course (CST336) part of the curriculum was to create a series of simple websites that each showcase one specific web development feature. The technology stack used in this course included PHP and SQL. As this was my first web development course none of these sites are up to my current visual and functional standards, but they are good examples of my experience working with PHP and MySQL. Each website is labeled by its homework assignment number:
-- homework 1: a simple website about operating systems that showcases switching between pages
-- homework 2: a website that generates indie band names and album art to show updating a page with PHP
-- homework 3: a small animal encyclopedia showcasing HTML forms and GET with PHP
-- homework 4: a rock paper scissors game
-
-**Technologies Used:** PHP, MySQL, HTML, CSS, Heroku, phpMyAdmin
-
-[The Code](https://github.com/DavidCBeach/dbeach)
-
-[The Website](http://dbeach-cst336.herokuapp.com/)  
-<span style="color:red">Important:</span> Give the website a few seconds to wake up before interacting with it. Websites hosted on Heroku go into a sleep state when inactive for a period of time.
-
-* * *
 
 ## Technical Skills
 
